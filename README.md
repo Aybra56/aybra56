@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ayoub 👋
 
-<!--
-**Aybra56/aybra56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering graduate passionate about Web Development, Information Systems, and building practical solutions.
 
-Here are some ideas to get you started:
+## 💻 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML, CSS, JavaScript
+- PHP, MySQL
+- React, Node.js
+- WordPress
+- Git & GitHub
+
+## 🚀 Featured Projects
+
+### 🏨 ErraHotel
+A web platform for geolocating accommodation providers in Errachidia, developed as my graduation project.
+
+### 📚 Hamss El Waraq
+A digital library platform built with PHP and MySQL for managing and browsing books.
+
+### 📅 Timetable Generator
+An automated scheduling application designed to generate optimized timetables.
+
+### 🔧 Other Projects
+A collection of additional web development projects, experiments, and coding practices.
+
+## 📫 Connect with me
+
+LinkedIn: [Ayoub Brahmi](https://www.linkedin.com/in/ayoub-brahmi56)
