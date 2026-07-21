@@ -7,10 +7,10 @@ Software Engineering graduate passionate about Web Development, Information Syst
 - HTML, CSS, JavaScript
 - PHP, MySQL
 - React, Node.js
-- WordPress
 - Git & GitHub
 - C++
 - Java
+- WordPress
 
 ## 🚀 Featured Projects
 
